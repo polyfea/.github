@@ -1,3 +1,3 @@
 # Polyfea Microfronends ecosystem
 
-Polyfea is kubernetes controller and an ecosystem of components to enable deployment and integration of microfrontends as a resources of the kubernetes.
+Polyfea is a Kubernetes controller and ecosystem that simplifies the deployment and integration of microfrontends. It's designed to boost efficiency across teams, enabling independent release cycles for each microfrontend.
